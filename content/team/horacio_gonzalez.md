@@ -3,6 +3,7 @@ key: horacio_gonzalez
 title: Horacio Gonzalez
 name: Horacio Gonzalez
 type: core
+city: Brest, France
 subtitle: OVHcloud
 company: OVHcloud
 photoURL: /images/team/horacio_gonzalez.jpg
